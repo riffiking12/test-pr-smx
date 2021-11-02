@@ -13,7 +13,7 @@ Make the pull request (with a meaningful commit message) and wait for it to be a
 
 ## This is the list that you have to modify
 
-**Which subject do you like the most? And why?
+**Which subject do you like the most? And why?**
 
 * [cvm](files/cvm.md)
 
