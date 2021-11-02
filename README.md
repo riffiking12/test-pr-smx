@@ -1,40 +1,22 @@
-# Repositorio Prueba
+## Test Repository
 
-## Repositorio para realizar ej ejercicio de Pull Request
+## Repository to perform a Pull Request exercise.
 
-Que tienes que hacer:
+What you have to do:
 
-* Realiza un pull request a este repositorio para solicitar dos cambios:
+* Make a pull request to this repository to request two changes:
 
-    * Debes cambiar el fichero `README.md` para añadir un enlace a la lista, donde ponga tus iniciales y vaya al fichero que vas a crear en el directorio `files`.
-    * Crea un  fichero en el directorio `files`, que se llame `tus_iniciales.md` (en mi caso se llama `jdmr.md`) y donde escribas en markdown la respuesta a la pregunta: **¿Qué asignatura te gusta más? Y ¿por qué?** (se debe utilizar al menos 5 marcas distintas de markdown).
+    * You must change the `README.md` file to add a link to the list, where it initials and goes to the file you are going to create in the `files` directory.
+    * Create a file in the `files` directory, called `your_initials.md` (in my case it is called `cvm.md`) and where you write in markdown the answer to the question: **What subject do you like the most? And why?** (at least 5 different markdown marks must be used).
 
-Realiza el pull request (con un mensaje de commit significativo) y espera a que sea aceptado por mí. Al finalizar el ejercicio debes sincronizar tu repositorio para que tengas todos los ficheros de todos tus compañeros.
+Make the pull request (with a meaningful commit message) and wait for it to be accepted by me. At the end of the exercise you must synchronize your repository so that you have all the files from all your colleagues.
 
-## Esta es la lista que tienes que modificar
+## This is the list that you have to modify
 
-**¿Qué asignatura te gusta más? Y ¿por qué?**
+**Which subject do you like the most? And why?
 
-* [jdmr](files/jdmr.md)
-* [ada](files/ada.md)
-* [lpt](files/lpt.md)
-* [cmgpdg](files/cmgpdg.md)
-* [dpg](files/dpg.md)
-* [dpg2](files/dpg2.md)
-* [oeb](files/oeb.md)
-* [dmm](files/dmm.md)
-* [jrm](files/jrm.md)
-* [ajr](files/ajr.md)
-* [ale](files/ale.md)
-* [crm](files/crm.md)
-* [drg](files/drg.md)
-* [jvc](files/jvc.md)
-* [jcb](files/jcb.md)
-* [acd](files/acd.md)
-* [mca](files/mca.md)
-* [agv](files/agv.md)
-* [mjbp](files/mjbp.md)
+* [cvm](files/cvm.md)
 
 ---
 
-FIN
+END
